@@ -2,7 +2,7 @@ Package: foofactors
 Title: Make Factors Less Annoying
 Version: 0.1
 Encoding: UTF-8
-Authors@R: person("Jennifer", "Bryan", role=c("aut", "cre"),email = "jenny@stat.ubc.ca")
+Authors@R: person("Hesham", "Mahrous", role=c("aut", "cre"),email = "hesham.m.mahrous@gmail.com")
 Description: A new function reorder based on the one fron stats package is used.
 Depends:
     R (>= 3.2.2)
@@ -17,5 +17,5 @@ Imports:
     dplyr,
     testit
 VignetteBuilder: knitr
-URL: https://github.com/jennybc/foofactors
-BugReports: https://github.com/jennybc/foofactors/issues
+URL: https://github.com/HeshamMahrous/foofactors
+BugReports: https://github.com/HeshamMahrous/foofactors/issues

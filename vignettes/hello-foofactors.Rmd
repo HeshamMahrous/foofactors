@@ -1,5 +1,5 @@
 ---
-title: "stringsAsFactors = HELLNO"
+title: "foofactors"
 author: "Hesham Mahrous"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
