@@ -16,7 +16,7 @@ Reorder is a function to change the order of the levels in a factor variable. Th
 NOTE : ADD YOUR GITHUB REPO
 
 ``` r
-devtools::install_github("STAT545-UBC/mahrous_hesham-mostafa/Homework9/foofactors")
+devtools::install_github("HeshamMahrous/foofactors")
 ```
 
 ### Quick demo
